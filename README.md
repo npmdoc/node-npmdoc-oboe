@@ -1,9 +1,14 @@
-# api documentation for  [oboe (v2.1.3)](http://oboejs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-oboe.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oboe) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oboe.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oboe)
+# npmdoc-oboe
+
+#### api documentation for  [oboe (v2.1.3)](http://oboejs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-oboe.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oboe) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oboe.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oboe)
+
 #### Oboe.js reads json, giving you the objects as they are found without waiting for the stream to finish
 
-[![NPM](https://nodei.co/npm/oboe.png?downloads=true)](https://www.npmjs.com/package/oboe)
+[![NPM](https://nodei.co/npm/oboe.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/oboe)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-oboe/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-oboe_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-oboe/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-oboe/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-oboe/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-oboe/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-oboe/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-oboe/build/screenCapture.npmPackageListing.svg)
 
@@ -92,21 +97,17 @@
     "main": "./dist/oboe-node.js",
     "maintainers": [
         {
-            "name": "jimhigson",
-            "email": "jim.higson@gmail.com"
+            "name": "jimhigson"
         },
         {
-            "name": "joombar",
-            "email": "jim.higson@gmail.com"
+            "name": "joombar"
         },
         {
-            "name": "juancaicedo",
-            "email": "retiredcanadianpoet@gmail.com"
+            "name": "juancaicedo"
         }
     ],
     "name": "oboe",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jimhigson/oboe.js.git"
@@ -122,29 +123,6 @@
     "title": "Oboe.js",
     "version": "2.1.3"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module oboe](#apidoc.module.oboe)
-1.  [function <span class="apidocSignatureSpan">oboe.</span>drop ()](#apidoc.element.oboe.drop)
-
-
-
-# <a name="apidoc.module.oboe"></a>[module oboe](#apidoc.module.oboe)
-
-#### <a name="apidoc.element.oboe.drop"></a>[function <span class="apidocSignatureSpan">oboe.</span>drop ()](#apidoc.element.oboe.drop)
-- description and source-code
-```javascript
-drop = function () {
-   return oboe.drop;
-}
-```
-- example usage
-```shell
-n/a
 ```
 
 
